@@ -1,0 +1,46 @@
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 12px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #3496e0;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #74bcf2;
+}
+
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
+  text-align: center;
+  color: #3496e0;
+}
+
+.main h1 {
+  font-size: 40px;
+}
+
+.poo h1 {
+  font-weight: bold;
+  font-family: Times New Roman, serif;
+  font-size: 80px;
+}
+
+html {
+    background-color: #FFF;
+    font-size: 16px;
+    font-family: Tahoma, sans-serif;
+}
